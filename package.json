@@ -1,0 +1,9 @@
+{
+  "name": "linear-bonding-curve-amm",
+  "version": "1.0.0",
+  "description": "Deterministic AMM based on token supply",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
