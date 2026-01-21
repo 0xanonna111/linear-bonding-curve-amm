@@ -1,0 +1,6 @@
+[
+  "function buy(uint256 amount) external payable",
+  "function sell(uint256 amount) external",
+  "function calculateCost(uint256 amount) view returns (uint256)",
+  "function totalSupply() view returns (uint256)"
+]
